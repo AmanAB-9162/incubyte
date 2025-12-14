@@ -150,10 +150,47 @@ sweet-shop/
 ![User Login](screenshot/userlogin.png)
 
 ### Dashboard
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](screenshot/userdashboard.png)
 
-### Admin Dashboard
-![Admin](screenshot/admin-dashboard.png)
+##Sweet-Search
+![Sweet](screenshot/sweetsearch.png)
+
+##Sweet-Add
+![Sweet](screenshot/sweetadd.png)
+
+##After-Sweet-Add
+![Sweet](screenshot/aftersweetadd.png)
+
+##Sweet-Purchase
+![Sweet](screenshot/sweetpurchase.png)
+
+##Sweet-Purchase
+![Sweet](screenshot/aftersweetpurchase.png)
+
+##Admin-Login
+![Sweet](screenshot/sweetsearch.png)
+
+##Sweet-Search
+![Admin](screenshot/adminlogin.png)
+
+##Sweet-Add-Admin
+![Sweet](screenshot/addsweetbyadmin.png)
+
+##Sweet-Add-Admin
+![Sweet](screenshot/aftersweetaddbyadmin.png)
+
+##Sweet-Delete
+![Sweet](screenshot/deletesweetbyadmin.png)
+
+##Sweet-Edit
+![Sweet](screenshot/editsweetbyadmin.png)
+
+##Sweet-restoke
+![Sweet](screenshot/restokebyadmin.png)
+
+
+
+
 
 ## 🤖 My AI Usage
 
