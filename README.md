@@ -168,9 +168,6 @@ sweet-shop/
 ![Sweet](screenshot/afterpurchasesweet.png)
 
 ##Admin-Login
-![Sweet](screenshot/sweetsearch.png)
-
-##Sweet-Search
 ![Admin](screenshot/adminlogin.png)
 
 ##Sweet-Add-Admin
