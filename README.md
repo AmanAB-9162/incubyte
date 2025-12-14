@@ -176,7 +176,7 @@ sweet-shop/
 ##Sweet-Add-Admin
 ![Sweet](screenshot/addsweetbyadmin.png)
 
-##Sweet-Add-Admin
+##Sweet-After-Add-Admin
 ![Sweet](screenshot/aftersweetaddbyadmin.png)
 
 ##Sweet-Delete
