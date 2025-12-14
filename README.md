@@ -192,7 +192,7 @@ sweet-shop/
 ## 🤖 My AI Usage
 
 ### Tools Used
-- **Claude AI (Anthropic)** - Used as a development assistant for specific tasks
+- **AI** - Used as a development assistant for specific tasks
 
 ### How I Used AI (Strategically)
 
@@ -303,7 +303,7 @@ This shows I used AI **transparently and ethically**.
 **My Learning:**
 Using AI taught me to be more efficient, but I realized that **understanding fundamentals is crucial**. AI can't replace a developer's problem-solving skills and architectural thinking.
 
-I'm comfortable discussing any part of this codebase in detail because **I built it**, AI just helped with scaffolding.
+
 ## 🎓 TDD Approach
 
 This project follows strict TDD principles:
