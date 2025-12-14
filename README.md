@@ -162,10 +162,10 @@ sweet-shop/
 ![Sweet](screenshot/aftersweetadd.png)
 
 ##Sweet-Purchase
-![Sweet](screenshot/sweetpurchase.png)
+![Sweet](screenshot/purchasesweet.png)
 
 ##Sweet-Purchase
-![Sweet](screenshot/aftersweetpurchase.png)
+![Sweet](screenshot/afterpurchasesweet.png)
 
 ##Admin-Login
 ![Sweet](screenshot/sweetsearch.png)
