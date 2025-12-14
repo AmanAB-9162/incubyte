@@ -250,7 +250,7 @@ AI was my **coding assistant**, not my **developer**. I used it like:
 - Stack Overflow for quick answers
 - A code reviewer for suggestions
 
-**I own and understand every line of code in this project.**
+
 
 ### Specific Examples
 
