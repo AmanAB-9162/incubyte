@@ -144,16 +144,16 @@ sweet-shop/
 - `POST /api/sweets/:id/purchase` - Purchase sweet
 - `POST /api/sweets/:id/restock` - Restock (Admin)
 
-## 📸 Screenshots
+## 📸 Screenshots : See in Screenshot Folder
 
 ### User Login
-![User Login](screenshots/user-login.png)
+![User Login](screenshot/userlogin.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshot/dashboard.png)
 
 ### Admin Dashboard
-![Admin](screenshots/admin-dashboard.png)
+![Admin](screenshot/admin-dashboard.png)
 
 ## 🤖 My AI Usage
 
